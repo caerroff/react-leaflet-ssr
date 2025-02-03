@@ -3,3 +3,4 @@ lib
 coverage
 .turbo
 .vercel
+package-lock.json
