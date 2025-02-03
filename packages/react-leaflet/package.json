@@ -34,9 +34,6 @@
     "prepare": "pnpm run build",
     "prepublishOnly": "package-check"
   },
-  "dependencies": {
-    "@react-leaflet/core": "workspace:^"
-  },
   "peerDependencies": {
     "leaflet": "^1.9.0",
     "react": "^19.0.0",
